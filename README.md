@@ -28,9 +28,9 @@ My interests include Competitive Programming which taught me patience
 
 and improved my Logical thinking and Problem-Solving skills to a great extent.
 
-Learned Full Stack Web Development and got to know the power it holds. 
+Learned Full Stack Web Development and got to know the power 
 
-There's certainly yet more to learn, yet more problems to solve, 
+it holds. There's certainly yet more to learn, yet more problems to solve, 
 
 and yet more to build. And for this, I am very grateful.
 
@@ -80,6 +80,8 @@ and yet more to build. And for this, I am very grateful.
 </a>
 <a href="https://www.leetcode.com/vk20july" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vk20july" height="30" width="24" />
 </a>
+
+
 
 
 
