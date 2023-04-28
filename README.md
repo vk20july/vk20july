@@ -10,11 +10,11 @@
 
 **<ins><h2>About Me</h2></ins>**
 
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o0xwlawk5bdtl80c6iauhpuoxz8dts2tbph1t7np&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 - 🌱 Interested in Mern Stack Development and Open Source
 
 - ⚡ Competitive Programming Enthusiast
-
-<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o0xwlawk5bdtl80c6iauhpuoxz8dts2tbph1t7np&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 - 😄 Pronouns: He/Him
 
