@@ -1,5 +1,4 @@
-<h1 align="left" >Hi There,I'm Vivek Kumar Tiwari</h1>
-<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"width="30px">
+# Hi There,I'm Vivek Kumar Tiwari <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vk20july&show_icons=true&locale=en&layout=compact" alt="vk20july" /></p>
@@ -8,8 +7,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vk20july&" alt="vk20july" /></p>
 
-<img align="right" alt="Coding" width="330" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o0xwlawk5bdtl80c6iauhpuoxz8dts2tbph1t7np&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
+
+
+
+
+
+<img align="right" alt="Coding" width="330" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o0xwlawk5bdtl80c6iauhpuoxz8dts2tbph1t7np&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 
 
