@@ -76,9 +76,12 @@ and yet more to build. And for this, I am very grateful.
 <a href="https://www.codechef.com/users/vk20july" target="blank">
   <img align="left" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="vk20july" height="30" width="24" />
   </a>
-<a href="https://codeforces.com/profile/vk20july" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vk20july" height="30" width="24" />
+<a href="https://codeforces.com/profile/vk20july" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"       alt="vk20july" height="30" width="24" />
 </a>
-<a href="https://www.leetcode.com/vk20july" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vk20july" height="30" width="24" />
+
+<a href="https://www.leetcode.com/vk20july" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vk20july" height="30" width="24" />
 </a>
 
 
