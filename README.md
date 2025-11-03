@@ -22,7 +22,7 @@
 
 
 
-I am a student pursuing B-Tech in **Punjab Engineering College**.
+I am a B-Tech graduate student in **Punjab Engineering College**.
 
 My interests include Competitive Programming which taught me patience
 
