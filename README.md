@@ -69,7 +69,12 @@ and yet more to build. And for this, I am very grateful.
 <a href="https://linkedin.com/in/linkedin.com/in/vivek-kumar-tiwari-876b00212" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin.com/in/vivek-kumar-tiwari-876b00212" height="30" width="24" />
   </a>
- 
+
+
+<a href="mailto:vivekchallenger20@gmail.com" target="_blank">
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg"       alt="Vivek Kumar Tiwari" height="30" width="24" />
+</a>
+
 <a href="https://codeforces.com/profile/vk20july" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"       alt="vk20july" height="30" width="24" />
 </a>
