@@ -64,17 +64,13 @@ and yet more to build. And for this, I am very grateful.
 
 **💬 Ask me about anything, I'll be happy to help!**
 <br>
-
+**💬 My inbox is always open, Contact me**
 
 
 <a href="https://linkedin.com/in/linkedin.com/in/vivek-kumar-tiwari-876b00212" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin.com/in/vivek-kumar-tiwari-876b00212" height="30" width="24" />
   </a>
 
-
-<a href="mailto:vivekchallenger20@gmail.com" target="_blank">
-    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg"       alt="Vivek Kumar Tiwari" height="30" width="24" />
-</a>
 
 <a href="mailto:vivekchallenger20@gmail.com" target="_blank">
     <img align="left" alt="Vivek Kumar Tiwari | Gmail" width="24px" height="30" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Gmail.svg" />
