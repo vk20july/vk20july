@@ -76,6 +76,10 @@ and yet more to build. And for this, I am very grateful.
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Gmail.svg"       alt="Vivek Kumar Tiwari" height="30" width="24" />
 </a>
 
+<a href="mailto:vivekchallenger20@gmail.com" target="_blank">
+    <img align="left" alt="Vivek Kumar Tiwari | Gmail" width="24px" height="30" src="https://github.com/ankitgoyal0301/ankitgoyal0301/blob/master/Images/Gmail.svg" />
+</a>
+
 <a href="https://codeforces.com/profile/vk20july" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"       alt="vk20july" height="30" width="24" />
 </a>
