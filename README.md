@@ -63,7 +63,6 @@ and yet more to build. And for this, I am very grateful.
 
 **💬 Ask me about anything, I'll be happy to help!**
 <br>
-**💬 My inbox is always open, Contact me**
 
 
 
