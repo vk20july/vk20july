@@ -1,5 +1,6 @@
 # Hi There,I'm Vivek Kumar Tiwari <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=vk20july alt=vk20july/> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vk20july&show_icons=true&locale=en&layout=compact" alt="vk20july" /></p>
 
