@@ -70,12 +70,7 @@ and yet more to build. And for this, I am very grateful.
 <a href="https://linkedin.com/in/linkedin.com/in/vivek-kumar-tiwari-876b00212" target="blank">
   <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="linkedin.com/in/vivek-kumar-tiwari-876b00212" height="30" width="24" />
   </a>
- <a href="mailto:vivekchallenger20@gmail.com" target="_blank">
-    <img align="left" alt="Vivek Kumar Tiwari | Gmail" height="30" width="24px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
-</a>
-<a href="https://www.codechef.com/users/vk20july" target="blank">
-  <img align="left" src="https://avatars.githubusercontent.com/u/11960354?v=4" alt="vk20july" height="30" width="24" />
-  </a>
+ 
 <a href="https://codeforces.com/profile/vk20july" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"       alt="vk20july" height="30" width="24" />
 </a>
