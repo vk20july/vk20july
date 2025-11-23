@@ -6,7 +6,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vk20july&show_icons=true&locale=en" alt="vk20july" /></p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=vk20july" alt="GitHub Streak" /></a></p>
 
 
 **<ins><h2>About Me</h2></ins>**
