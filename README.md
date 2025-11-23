@@ -36,12 +36,6 @@ it holds. There's certainly yet more to learn, yet more problems to solve,
 and yet more to build. And for this, I am very grateful.
 
 
-<img src="https://github.com/vk20july/vk20july/assets/75434191/3325b60b-6565-45da-ab3e-9d31341c1b5b" width="16px" align="right"/>
-  <h2> 😎 My DevCard </h2><br>
-<br>
-<img src="https://api.daily.dev/devcards/v2/1K5utAKgmt1B5bIpW0GZh.png?type=default&r=7rh" width="356" alt="Vivek Kumar Tiwari's Dev Card"/> 
-
-
 
 
 **<ins><h2>Languages and Tools:</h2></ins>**
