@@ -1,14 +1,5 @@
 # Hi There,I'm Vivek Kumar Tiwari <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=vk20july alt=vk20july/> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vk20july&show_icons=true&locale=en&layout=compact" alt="vk20july" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vk20july&show_icons=true&locale=en" alt="vk20july" /></p>
-
-<p><img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=vk20july&show_icons=true&locale=en" alt="vk20july" style="margin-top: 20px;"/>
-    </a></p>
-
 **<ins><h2>About Me</h2></ins>**
 
 <img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47o0xwlawk5bdtl80c6iauhpuoxz8dts2tbph1t7np&ep=v1_gifs_search&rid=giphy.gif&ct=g">
