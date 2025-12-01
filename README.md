@@ -16,44 +16,44 @@
 ### 📈 GitHub Activity Graph:
 
 <p align="center">
-  <a href="https://github.com/nnnLik">
+  <a href="https://github.com/vk20july">
     <img align="center"
          height="150em"
-         src="https://streak-stats.demolab.com?user=nnnLik&theme=aura&hide_border=false&border_radius=10" />
+         src="https://streak-stats.demolab.com?user=vk20july&theme=aura&hide_border=false&border_radius=10" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nnnLik">
+  <a href="https://github.com/vk20july">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnnlik&theme=aura"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vk20july&theme=aura"
     />
-  <a href="https://github.com/nnnLik">
+  <a href="https://github.com/vk20july">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nnnlik&theme=aura"
-    />
-</p>
-
-<p align="center">
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnnlik&theme=aura"
-    />
-  <a href="https://github.com/nnnLik">
-    <img align="center"
-         height="150em"
-         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nnnlik&theme=aura&utcOffset=8"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vk20july&theme=aura"
     />
 </p>
 
 <p align="center">
- <a href="https://github.com/nnnLik">
+  <a href="https://github.com/vk20july">
     <img align="center"
          height="150em"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nnnLik&theme=aura"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=vk20july&theme=aura"
+    />
+  <a href="https://github.com/vk20july">
+    <img align="center"
+         height="150em"
+         src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vk20july&theme=aura&utcOffset=8"
+    />
+</p>
+
+<p align="center">
+ <a href="https://github.com/vk20july">
+    <img align="center"
+         height="150em"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vk20july&theme=aura"
     />
 </p>
 
