@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=F7F4F6&center=true&vCenter=true&width=435&lines=Hi+There%2C+I'm+Vivek+Kumar+Tiwari+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 # 💫 About Me:
-<b>.</b> 🌱 Interested in Mern Stack Development and Open Source<br><br><b>.</b>. ⚡ Competitive Programming Enthusiast<br><br><b>.</b>. 😄 Pronouns: He/Him<br><br>I am a B-Tech graduate student in <b>Punjab Engineering College</b>.<br><br>My interests include <b>Competitive Programming</b> which taught me patience<br><br>and improved my logical thinking and problem solving skills to a great extent.<br><br>Learned <b>Full Stack Web Development</b> and got to know the power it holds.<br><br>There's certainly yet more to learn, yet more problems to solve, and yet more<br><br>to build. And for this, I am very grateful.
+<b>.</b> 🌱 Interested in Mern Stack Development and Open Source<br><br><b>.</b> ⚡ Competitive Programming Enthusiast<br><br><b>.</b> 😄 Pronouns: He/Him<br><br>I am a B-Tech graduate student in <b>Punjab Engineering College</b>.<br><br>My interests include <b>Competitive Programming</b> which taught me patience<br><br>and improved my logical thinking and problem solving skills to a great extent.<br><br>Learned <b>Full Stack Web Development</b> and got to know the power it holds.<br><br>There's certainly yet more to learn, yet more problems to solve, and yet more<br><br>to build. And for this, I am very grateful.
 
 
 ## 🌐 Socials:
